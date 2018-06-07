@@ -1,3 +1,3 @@
 Hello, World
 
-![Scary!](images/prettydog.jpg "Beautiful Doggo")
+![Scary!](/images/prettydog.jpg "Beautiful Doggo")
